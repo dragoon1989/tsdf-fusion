@@ -55,3 +55,6 @@ This repository is a part of [3DMatch Toolbox](https://github.com/andyzeng/3dmat
     year={2017} 
 }
 ```
+
+# 2019/05/30		@ zhangyunan
+We develop a simple CPU version of TSDF fusion, using OMP acceleration to substitute CUDA.
